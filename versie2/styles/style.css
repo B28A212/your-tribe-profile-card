@@ -4,6 +4,8 @@ body {
   background: rgb(204, 204, 204);
 }
 
+
+
 .left {
   left: 25px;
 }
@@ -66,9 +68,9 @@ body {
   margin-top: 10px;
   border-radius: 15px;
   margin-right: 45px;
-  -webkit-filter: sepia(1);
+  /*-webkit-filter: sepia(1);
   -moz-filter: sepia(1);
-  filter: sepia(1);
+  filter: sepia(1); */
 }
 
 #card h2 {
@@ -91,13 +93,15 @@ body {
 
 a:link, a:visited {
   background-color: #f7f5f4;
-  background: rgb(204, 204, 204);
+  background: rgb(209, 207, 207);
   padding: 1px 5px;
-  border-radius: 6px;
+  border-radius: 9px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  transition: 0.9s;
 }
 a:hover, a:active {
-  background-color: rgb(148, 148, 148);
+  background-color: rgb(0, 0, 0);
+  color: white;
 }

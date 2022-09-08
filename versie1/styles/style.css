@@ -12,7 +12,7 @@ body {
   display:flex;
   justify-content:center;
   align-items:center;
-  color:#4e1010;
+  color:#000000;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 
@@ -33,7 +33,6 @@ article {
   transform-style: preserve-3d;
 
 }
-
 
 
 header {
@@ -60,7 +59,7 @@ button {
   transform: scale(.8); 
   border-radius:50%;
   padding:.25rem;
-  transition:.25s;
+  transition:.40s;
 }
 button:focus {
   outline:none;
@@ -77,7 +76,7 @@ svg {
   transition-delay: .25s;
 }
 button svg:nth-of-type(2) {
-  /* opacity:0; */
+  /* opacity:0; */ 
   transition-delay: 0ms;
 }
 
@@ -129,7 +128,7 @@ dd:nth-of-type(2){
 }
 
 p { 
-  margin:0
+  margin: 0
 }
 
 article > p {
@@ -139,25 +138,25 @@ article > p {
   text-align:center;
   border-radius: 0 0 1rem 1rem;
   width:100%;
+  
 }
 
-/* expand content */
+expand content 
 body.expand {
-  /*font-size:1.15em; */
+  font-size:1.15em; 
+  
 }
 
 body.expand article {
- /* width:60vw;
-  max-width: 60vw; */
   transform: rotateY(180deg);
 } 
 
-body.expand button svg:first-of-type {
+/* body.expand button svg:first-of-type {
   opacity:0;
   transition-delay: 0ms;
 }
 
-/*body.expand button svg:nth-of-type(2) {
+body.expand button svg:nth-of-type(2) {
   opacity:1;
   transition-delay:.25s; 
 } */
@@ -168,4 +167,8 @@ body.expand button svg:first-of-type {
 
 body.expand img {
   width:15em;
-} */
+} 
+
+
+
+
