@@ -15,7 +15,7 @@ Was gelijk begonnen met paar changes te maken (kleuren/foto's) dat was makkelijk
 Toen ik klaar was met mijn versie heb ik hem naar git gepushet en ook online gezet.
 
 ## Testen
-Test fase was meer of mijn button werkt of niet, en ook kijken of mijn changes van kleuren en foto echt werkte.
+Test fase heb ik mijn hover button getest en ook testen of de button gelinkt was met de andere pagina, ook kijken of mijn changes van kleuren en foto echt werkte.
 
 ### Mijn Versie 1 
 <img src="https://user-images.githubusercontent.com/112857932/189314841-dece2a28-3851-47c2-b9b6-a325f4efcd62.png" width="20%">
