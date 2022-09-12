@@ -6,6 +6,9 @@ We moesten een visitekaartje maken met behulp van HTML/CSS en Js.
 Ik wist dat ik een visitekaartje van mijn zelf moest maken, we hebben een voorbeeld gekregen dus ik had wel een headstart. Maar toch ik moest wel beetje research doen over wat html/css die was gebruikt in het voorbeeld.
 
 ## Ontwerpen 
+Dit is mijn schets van de 1st versie. </br>
+Zoals je ziet midden boven van het visitekaartje zie je mijn naam (H1), midden van het VK mijn (Html,Css,Js) skills misschien, onderaan het kaartje een kleine tekstje over mijn zelf.
+
 <img src="https://user-images.githubusercontent.com/112857932/189346328-77330dee-4428-4130-af7f-dcb68e4a6235.png" width="25%"> 
 
 ## Bouwen
