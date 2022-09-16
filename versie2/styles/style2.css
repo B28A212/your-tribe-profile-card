@@ -5,8 +5,6 @@ body {
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(226,174,51,1) 100%, rgba(0,212,255,1) 100%);
       }
 
-    
-  
   .left {
     left: 25px;
   }
@@ -62,8 +60,6 @@ body {
     box-shadow: -20px 0 35px -25px black, 20px 0 35px -25px black;
     z-index: 5;
   }
-  
-
   
   #card h2 {
     font-family: courier;
