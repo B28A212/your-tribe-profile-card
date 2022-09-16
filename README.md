@@ -35,5 +35,7 @@ Mijn 2de Versie:
 
 <img src="https://user-images.githubusercontent.com/112857932/189348399-477bdba2-3fe1-45c4-ba8d-87a332bc4d22.png" width= "30%">
 
+Link naar huidige versie "https://b212.student.fdnd.nl/versie2/"
+
 
 
